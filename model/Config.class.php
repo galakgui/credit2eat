@@ -14,7 +14,8 @@ class Config {
     const BD_USER = "uldvascdejvcgy";
     const BD_SENHA = "aa9878c0e14dace4fb8a7e3bbcdda5c99dc3e817aa9564734e6a96ac91e2207d";
     const BD_BANCO = "d4mh8sc7aj9mqr";
-    const BD_PREFIX = "5432";
+    const BD_PREFIX = "";
+    const BD_PORT = "5432";
 
     /**
      * INFORMACOES DO SITE =========================
