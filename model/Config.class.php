@@ -10,12 +10,11 @@ class Config {
     /**
      * BANCO DE DADOS ========================
      */
-    const BD_HOST = "ec2-107-22-189-136.compute-1.amazonaws.com";
-    const BD_USER = "uldvascdejvcgy";
-    const BD_SENHA = "aa9878c0e14dace4fb8a7e3bbcdda5c99dc3e817aa9564734e6a96ac91e2207d";
-    const BD_BANCO = "d4mh8sc7aj9mqr";
+    const BD_HOST = "localhost";
+    const BD_USER = "root";
+    const BD_SENHA = "";
+    const BD_BANCO = "credit2eat";
     const BD_PREFIX = "";
-    const BD_PORT = "5432";
 
     /**
      * INFORMACOES DO SITE =========================

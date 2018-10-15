@@ -16,7 +16,6 @@ class Conexao extends Config {
         $this->banco = self::BD_BANCO;
         $this->senha = self::BD_SENHA;
         $this->prefix = self::BD_PREFIX;
-        $this->port = self::BD_PORT;
         
         try {
             $this->conn = $this->Conectar();
